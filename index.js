@@ -259,6 +259,7 @@ app
     }
   });
 
+// tidak sempat ngerjain
 app
   .route("/details")
   .get(async (req, res) => {})
